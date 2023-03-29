@@ -1,2 +1,2 @@
 ### Leaders
-* [Lütfü Mert Ceylan](mailto:info@lutfumertceylan.com.tr)
+* [Lütfü Mert Ceylan](mailto:lutfu.mertceylan@owasp.org)

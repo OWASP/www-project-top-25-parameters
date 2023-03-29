@@ -9,6 +9,7 @@ OWASP Foundation Web Respository
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
   <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=owasp"><img src="https://img.shields.io/twitter/follow/owasp?style=flat&logo=twitter"></a>
   <a href="https://twitter.com/intent/follow?screen_name=lutfumertceylan"><img src="https://img.shields.io/twitter/follow/lutfumertceylan?style=flat&logo=twitter"></a>
   <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a>
 </p>
@@ -40,7 +41,7 @@ This repo contains common parameters of the following vulnerabilities:
 
 ---
 
-### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
+### Top 25 **Cross-Site Scripting (XSS)** Parameters
 
 <img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
 
@@ -48,7 +49,7 @@ This repo contains common parameters of the following vulnerabilities:
 
 <img src="https://pbs.twimg.com/media/EbzO_2BXgAA5rDb?format=jpg&name=medium">
 
-### Top 25 **Local File Inclusion (LFI)** Parameters for @trbughunters
+### Top 25 **Local File Inclusion (LFI)** Parameters
 
 <img src="https://pbs.twimg.com/media/EcKmRkIXQAIuRNX?format=jpg&name=medium">
 
@@ -56,10 +57,10 @@ This repo contains common parameters of the following vulnerabilities:
 
 <img src="https://pbs.twimg.com/media/Eb9UUDPU4AAxJR1?format=jpg&name=medium">
 
-### Top 25 **Remote Code Execution (RCE)** Parameters [GET based] for @trbughunters
+### Top 25 **Remote Code Execution (RCE)** Parameters [GET based]
 
 <img src="https://pbs.twimg.com/media/Ec6apFcWoAAjGQO?format=png&name=medium">
 
-### Top 25 **Open Redirect** Parameters for @lutfumertceylan
+### Top 25 **Open Redirect** Parameters
 
 <img src="https://pbs.twimg.com/media/Eao7Nt7WkAEiiVD?format=jpg&name=medium">

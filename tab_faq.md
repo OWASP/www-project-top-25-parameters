@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQs
 layout:  null
 tab: true
 order: 1

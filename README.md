@@ -31,35 +31,35 @@ This repo contains common parameters of the following vulnerabilities:
 </p>
 
 ## ToC
-- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
-- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
-- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
+- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)
+- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters)
+- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters)
 - [SQL Injection](#top-25-sql-injection-parameters-for-trbughunters)
-- [Remote Code Execution](#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
-- [Open Redirect](#top-25-open-redirect-parameters-for-lutfumertceylan)
+- [Remote Code Execution](#top-25-remote-code-execution-rce-parameters-get-based)
+- [Open Redirect](#top-25-open-redirect-parameters-get-based)
 
 ---
 
 ### Top 25 **Cross-Site Scripting (XSS)** Parameters
 
-<img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
+<img src="/assets/images/xss-owasp_top25pic.png">
 
-### Top 25 **Server-Side Request Forgery (SSRF)** Parameters for @trbughunters
+### Top 25 **Server-Side Request Forgery (SSRF)** Parameters
 
-<img src="https://pbs.twimg.com/media/EbzO_2BXgAA5rDb?format=jpg&name=medium">
+<img src="/assets/images/ssrf-owasp_top25pic.png">
 
 ### Top 25 **Local File Inclusion (LFI)** Parameters
 
-<img src="https://pbs.twimg.com/media/EcKmRkIXQAIuRNX?format=jpg&name=medium">
+<img src="/assets/images/lfi-owasp_top25pic.png">
 
-### Top 25 **SQL Injection** Parameters for @trbughunters
+### Top 25 **SQL Injection** Parameters
 
-<img src="https://pbs.twimg.com/media/Eb9UUDPU4AAxJR1?format=jpg&name=medium">
+<img src="/assets/images/sql-owasp_top25pic.png">
 
 ### Top 25 **Remote Code Execution (RCE)** Parameters [GET based]
 
-<img src="https://pbs.twimg.com/media/Ec6apFcWoAAjGQO?format=png&name=medium">
+<img src="/assets/images/rce-owasp_top25pic.png">
 
-### Top 25 **Open Redirect** Parameters
+### Top 25 **Open Redirect** Parameters [GET based]
 
-<img src="https://pbs.twimg.com/media/Eao7Nt7WkAEiiVD?format=jpg&name=medium">
+<img src="/assets/images/openredirect-owasp_top25pic.png">

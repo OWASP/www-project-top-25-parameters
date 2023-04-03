@@ -31,15 +31,6 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
 
 This repo contains common parameters of the following vulnerabilities:
-```
-- Cross-Site Scripting (XSS)
-- Server-Side Request Forgery (SSRF)
-- Local File Inclusion (LFI)
-- SQL Injection (SQLi)
-- Remote Code Execution (RCE) - [for GET and POST methods]
-- Open Redirect
-```
-</p>
 
 ## ToC
 - [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)

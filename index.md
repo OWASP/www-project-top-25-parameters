@@ -22,11 +22,10 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
   
  [![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
  [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-  
-  <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
-  <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-  <a href="https://twitter.com/intent/follow?screen_name=owasp"><img src="https://img.shields.io/twitter/follow/owasp?style=flat&logo=twitter"></a>
-  <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a>
+ <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
+ <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+ <a href="https://twitter.com/intent/follow?screen_name=owasp"><img src="https://img.shields.io/twitter/follow/owasp?style=flat&logo=twitter"></a>
+ <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a>
 </p>
 
 ---

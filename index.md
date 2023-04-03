@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Top 25 Parameters
 tags: owasp top25-parameters parameter analysis subdomain enumeration osint recon
-project: true
 level: 4
 type: Documentation
 pitch: For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon.

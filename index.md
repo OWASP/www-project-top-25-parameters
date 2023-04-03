@@ -2,21 +2,75 @@
 
 layout: col-sidebar
 title: OWASP Top 25 Parameters
-tags: example-tag
+tags: top25-parameter
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: Documentation
+pitch: For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# www-project-top-25-parameters
+<h1>OWASP Foundation Web Respository</h1>
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+<h1 align="center">
+  <br>
+  <a href=""><img src="x" alt=""></a>
+</h1>
+<h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon</h4>
+<p align="center">
+  <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
+  <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=owasp"><img src="https://img.shields.io/twitter/follow/owasp?style=flat&logo=twitter"></a>
+  <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a>
+</p>
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+---
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## What is top25-parameter 🧙⚔️
+<p>
+For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
+This repo contains common parameters of the following vulnerabilities:
+```
+- Cross-Site Scripting (XSS)
+- Server-Side Request Forgery (SSRF)
+- Local File Inclusion (LFI)
+- SQL Injection (SQLi)
+- Remote Code Execution (RCE) - [for GET and POST methods]
+- Open Redirect
+```
+</p>
 
-type: code, tool, documentation, or other
+## ToC
+- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)
+- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters)
+- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters)
+- [SQL Injection](#top-25-sql-injection-parameters-for-trbughunters)
+- [Remote Code Execution](#top-25-remote-code-execution-rce-parameters-get-based)
+- [Open Redirect](#top-25-open-redirect-parameters-get-based)
+
+---
+
+### Top 25 **Cross-Site Scripting (XSS)** Parameters
+
+<img src="/assets/images/xss-owasp_top25pic.png">
+
+### Top 25 **Server-Side Request Forgery (SSRF)** Parameters
+
+<img src="/assets/images/ssrf-owasp_top25pic.png">
+
+### Top 25 **Local File Inclusion (LFI)** Parameters
+
+<img src="/assets/images/lfi-owasp_top25pic.png">
+
+### Top 25 **SQL Injection** Parameters
+
+<img src="/assets/images/sql-owasp_top25pic.png">
+
+### Top 25 **Remote Code Execution (RCE)** Parameters [GET based]
+
+<img src="/assets/images/rce-owasp_top25pic.png">
+
+### Top 25 **Open Redirect** Parameters [GET based]
+
+<img src="/assets/images/openredirect-owasp_top25pic.png">

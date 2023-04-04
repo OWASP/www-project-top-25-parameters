@@ -33,17 +33,6 @@ For basic researches, top 25 vulnerable parameters based on frequency of use wit
 
 This repo contains common parameters of the following vulnerabilities:
 
-## How can I contact you?
-
-To report issues or make suggestions for the Top-25 Parameters, please use [GitHub Issues](https://github.com/OWASP/www-project-top-25-parameters/issues).
-
-For everything else, we're easy to answer your e-mail :
-
-1. Send an e-mail to [lutfu.mertceylan[at]owasp.org](mailto:lutfu.mertceylan[at]owasp.org)
-2. Send an e-mail to [info[at]lutfumertceylan.com.tr](mailto:info@lutfumertceylan.com.tr)
-
-You can @ us on Twitter [@lutfumertceylan](https://twitter.com/lutfumertceylan) & [@TR Bug Hunters](https://twitter.com/trbughunters).
-
 ## ToC
 - [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)
 - [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters)
@@ -77,3 +66,14 @@ You can @ us on Twitter [@lutfumertceylan](https://twitter.com/lutfumertceylan) 
 ### Top 25 **Open Redirect** Parameters [GET based]
 
 <img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/openredirect-owasp_top25pic.png">
+
+## How can I contact you?
+
+To report issues or make suggestions for the Top-25 Parameters, please use [GitHub Issues](https://github.com/OWASP/www-project-top-25-parameters/issues).
+
+For everything else, we're easy to answer your e-mail :
+
+1. Send an e-mail to [lutfu.mertceylan[at]owasp.org](mailto:lutfu.mertceylan[at]owasp.org)
+2. Send an e-mail to [info[at]lutfumertceylan.com.tr](mailto:info@lutfumertceylan.com.tr)
+
+You can @ us on Twitter [@lutfumertceylan](https://twitter.com/lutfumertceylan) & [@TR Bug Hunters](https://twitter.com/trbughunters).

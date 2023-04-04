@@ -9,8 +9,6 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 
 ---
 
-<h1>OWASP Top-25 Parameters</h1>
-
 <h1 align="center">
   <br>
   <a href=""><img src="x" alt=""></a>

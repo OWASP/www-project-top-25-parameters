@@ -29,10 +29,21 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 ---
 
 ## What is top25-parameter 🧙⚔️
-<p>
+
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
 
 This repo contains common parameters of the following vulnerabilities:
+
+## How can I contact you?
+
+To report issues or make suggestions for the Top-25 Parameters, please use [GitHub Issues](https://github.com/OWASP/www-project-top-25-parameters/issues).
+
+For everything else, we're easy to answer your e-mail :
+
+1. Send an e-mail to [lutfu.mertceylan[at]owasp.org](mailto:lutfu.mertceylan[at]owasp.org)
+2. Send an e-mail to [info[at]lutfumertceylan.com.tr](mailto:info@lutfumertceylan.com.tr)
+
+You can @ us on Twitter [@lutfumertceylan](https://twitter.com/lutfumertceylan) & [@TR Bug Hunters](https://twitter.com/trbughunters).
 
 ## ToC
 - [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)

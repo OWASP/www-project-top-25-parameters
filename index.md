@@ -11,7 +11,7 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 
 <h1 align="center">
   <br>
-  <a href=""><img src="x" alt=""></a>
+  <a href="https://github.com/OWASP/www-project-top-25-parameters"><img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/top25-parameter-logo.png" alt=""></a>
 </h1>
 <h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon</h4>
 

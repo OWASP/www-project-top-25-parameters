@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Top-25 Parameters
 tags: top25
-level: 4
+level: 2
 type: documentation
 pitch: For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon.
 

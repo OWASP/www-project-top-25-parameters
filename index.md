@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 25 Parameters
+title: OWASP Top-25 Parameters
 tags: top25
 level: 4
 type: documentation

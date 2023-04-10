@@ -6,8 +6,6 @@
 
 ### Top-25 Parameters Project Information
 * [Official Website](https://paramatter.art)
-* [Incubator Project](#)
-* [Type of Project](#)
 * [Version 1.0.7](https://github.com/OWASP/www-project-top-25-parameters/blob/main)
 
 ### Code Repository
@@ -15,5 +13,5 @@
 * [Download](https://github.com/lutfumertceylan/top25-parameter/zipball/master)
 
 ### Licensing
-*The OWASP Amass Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) .
+* The OWASP Amass Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) .
 

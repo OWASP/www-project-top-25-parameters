@@ -16,7 +16,7 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 <h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon</h4>
 
 <p align="center">
-<a href="https://owasp.org/projects/#div-flagships"><img src="https://camo.githubusercontent.com/324b9ee59428ef4e100e9b37216c82b65e639d1a05ba443b8460e6c4137cda6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f574153502d466c61677368697025323050726f6a6563742d3438413634362e737667"></a>
+<a href="https://owasp.org/projects/other_projects"><img src="https://img.shields.io/badge/owasp-incubator%20project-53AAE5.svg"></a>
 <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://camo.githubusercontent.com/1698104e976c681143eb0841f9675c6f802bb7aa832afc0c7a4e719b1f3cf955/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322e302d626c75652e737667"></a>
 <a href="https://github.com/lutfumertceylan/top25-parameter/tree/master"><img src="https://img.shields.io/github/v/release/OWASP/www-project-top-25-parameters?style=flat"></a>
 <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>

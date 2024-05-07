@@ -6,6 +6,8 @@
 
 ### Top-25 Parameters Project Information
 * [Version 1.0.7](https://github.com/OWASP/www-project-top-25-parameters/blob/main)
+  
+<i>Data sources include numerous articles, blogs, and other resources obtained via OSINT and other open-source projects including work similar to that of Jason Haddix and HUNT.</i>
 
 ### Code Repository
 * [GitHub Repository](https://github.com/lutfumertceylan/top25-parameter)

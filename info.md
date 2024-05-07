@@ -14,5 +14,5 @@
 * [Download](https://github.com/lutfumertceylan/top25-parameter/zipball/master)
 
 ### Licensing
-* The OWASP OWASP Top-25 Parameters Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) .
+* The OWASP Top-25 Parameters Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) .
 

@@ -28,7 +28,7 @@ pitch: For basic researches, top 25 vulnerability parameters that can be used in
 
 ## What is top25-parameter 🧙⚔️
 
-For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
+For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely.
 
 This repo contains common parameters of the following vulnerabilities:
 
